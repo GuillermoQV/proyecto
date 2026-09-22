@@ -1,1 +1,1 @@
-//TODO: hacer la lógica del frontend
+alert("Welcome to My Website");
